@@ -1,0 +1,61 @@
+h1 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+nav {
+  margin-bottom: 2rem;
+}
+
+main {
+  margin-left: 3rem;
+  margin-right: 5.25rem;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.header-with-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.small-img {
+  float: left;
+  padding-right: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-image {
+  margin: 0.5rem 1rem !important;
+}
+
+.custom-borders {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+  display: inline-flex;
+  width: 100%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.5rem !important;
+}
+
+.contact-image {
+  margin: 0.5rem 1rem !important;
+}
+
+.contacts {
+  margin-bottom: 1rem;
+  display: inline-flex;
+  width: 100%;
+}
+
+.main-header {
+  color: white;
+  font-size: 3rem;
+  font-family: "Times New Roman", Times, serif;
+}
