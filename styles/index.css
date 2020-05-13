@@ -21,10 +21,20 @@ main {
   font-weight: bold;
 }
 
-.small-img {
+.left-img {
   float: left;
   padding-right: 2rem;
   margin-bottom: 0.5rem;
+}
+
+.right-img {
+  float: right;
+  padding-left: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.main-text {
+  text-align: justify;
 }
 
 .card-image {
