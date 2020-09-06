@@ -24,12 +24,21 @@ main {
 .left-img {
   float: left;
   padding-right: 2rem;
+  margin-top: 2rem;
   margin-bottom: 0.5rem;
 }
 
-.right-img {
+.right-image-container{
   float: right;
   padding-left: 2rem;
+  margin-top: 2rem;
+}
+
+.right-image-container .right-image-top{
+  margin-bottom: 4rem !important;
+}
+
+.right-image-container .right-img {
   margin-bottom: 0.5rem;
 }
 
